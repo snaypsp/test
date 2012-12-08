@@ -1,0 +1,30 @@
+commit 342f87695bb4914acd68fde11f74301da8d85049
+Author: snayps <snaypsp@gmail.com>
+Date:   Sat Dec 8 19:10:40 2012 +0200
+
+    Добавили файл индекс
+
+commit f6d5bb5c5279c0a0315b57decbd53b6ffd17468b
+Author: snayps <snaypsp@gmail.com>
+Date:   Sat Dec 8 18:30:50 2012 +0200
+
+    dfsadfs
+
+commit 02174f81991451dd916b90aae891f78041aa3401
+Merge: ea76d16 da6d11d
+Author: snayps <snaypsp@gmail.com>
+Date:   Sat Dec 8 17:51:53 2012 +0200
+
+    Merge branch 'master' of github.com:snaypsp/test
+
+commit ea76d16bd04b99f427f53e56d169b1c0fa0e0980
+Author: snayps <snaypsp@gmail.com>
+Date:   Sat Dec 8 17:03:55 2012 +0200
+
+    Initial commit
+
+commit da6d11dd1e33a48c75cf3a9a7541f0d84443bd82
+Author: snaypsp <snaypsp@gmail.com>
+Date:   Sat Dec 8 05:40:38 2012 -0800
+
+    Initial commit
